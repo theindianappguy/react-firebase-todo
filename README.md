@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Firebase Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![todo app react firebase tutorial](https://user-images.githubusercontent.com/55942632/100148031-30ab5500-2ec2-11eb-9993-7f3f91673e59.png)
 
 ## Available Scripts
 
